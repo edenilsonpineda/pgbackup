@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0ba145c19353da73840755ed85984b6653241c800c6ad2c772805a6089dfb424"
+            "sha256": "16afeddc6f467b044fb51444e20f853be9dbe16722cbbaa04f17078bd95ccc79"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -39,6 +39,14 @@
             ],
             "markers": "python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==0.10.0"
+        },
+        "pgbackup": {
+            "hashes": [
+                "sha256:c4bb6d60a8e65b28783bd7aaa31a62ebfc58e85547c1d2244586172d6e40281f",
+                "sha256:ffa9a365dd32572252e57d197c68d63bbd397e80cc30ff5d15f9c43a3292ade8"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
         },
         "python-dateutil": {
             "hashes": [

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pgbackup-py.iml" filepath="$PROJECT_DIR$/.idea/pgbackup-py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pgbackup/.idea/pgbackup.iml" filepath="$PROJECT_DIR$/../pgbackup/.idea/pgbackup.iml" />
     </modules>
   </component>
 </project>
